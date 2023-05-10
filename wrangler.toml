@@ -1,0 +1,6 @@
+name = "echo"
+compatibility_date = "2023-01-01"
+
+routes = [
+    { pattern = "api.myepil.ru/echo*", zone_name = "myepil.ru" }
+]
